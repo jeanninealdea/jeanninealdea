@@ -1,71 +1,108 @@
-# Hi, I'm Jeannine 👋
+# AI Operations Consultant Kit 🚀
 
-## AI Operations & Automation Specialist
+A structured framework for analyzing business processes, building AI-powered automations, and creating scalable operating systems.
 
-I help businesses streamline operations by combining:
-- AI-powered workflows
-- CRM automation
-- SOP systems
-- Process optimization
-- Team operations
+## Purpose
 
-My background includes 8+ years building operational systems across real estate, sales, and service-based businesses.
+Most automation projects fail because teams automate broken processes.
+
+This framework focuses on:
+
+1. Understanding the workflow
+2. Finding operational bottlenecks
+3. Designing automation solutions
+4. Testing and improving systems
+5. Creating documentation for scale
+
 
 ---
 
-## 🔧 Core Skills
+## Framework
 
-### AI & Automation
-- ChatGPT / AI Prompt Engineering
-- AI Workflow Design
+### 01 - Discovery
+
+Understanding the business:
+- Goals
+- Current tools
+- Existing workflows
+- Pain points
+- Manual processes
+
+
+### 02 - Process Mapping
+
+Document:
+- Current workflow
+- Team responsibilities
+- Bottlenecks
+- Automation opportunities
+
+
+### 03 - Automation Blueprint
+
+Design:
+- Trigger
+- Actions
+- Integrations
+- AI requirements
+- Error handling
+
+
+### 04 - Build Checklist
+
+Implementation tracking:
+- Setup
+- Configuration
+- Integrations
+- Permissions
+
+
+### 05 - QA Testing
+
+Testing:
+- Successful scenarios
+- Failed scenarios
+- Edge cases
+- Improvements
+
+
+### 06 - SOP & Handoff
+
+Final delivery:
+- Documentation
+- Training
+- Maintenance plan
+
+
+---
+
+## Tools
+
+Automation:
 - Make
 - n8n
 - Zapier
-- Google Apps Script
 
-### CRM & Operations
+AI:
+- ChatGPT
+- Claude
+- Gemini
+
+Operations:
+- Google Workspace
+- ClickUp
+- Asana
+- Notion
+
+CRM:
 - GoHighLevel
-- REsimpli
-- Podio
 - Salesforce
 - HubSpot
-
-### Business Systems
-- SOP Development
-- KPI Scorecards
-- Process Mapping
-- QA Testing
-- Documentation
-
----
-
-## Featured Projects
-
-### 🤖 AI Lead Qualification System
-AI workflow that analyzes leads, scores opportunities, summarizes conversations, and creates next actions.
-
-Status: Building
-
-Tools:
-OpenAI | Make | CRM | Slack
-
-
-### 📊 AI Operations Dashboard
-Automated reporting system for team performance, KPIs, and management insights.
-
-Status: Building
-
-
-### 🧠 SOP Knowledge Assistant
-AI assistant that helps teams access internal processes faster.
-
-Status: Building
+- REsimpli
+- Podio
 
 
 ---
 
-## My Framework
-
-Analyze → Automate → Optimize → Scale
-
-Every automation starts with understanding the process first.
+Created by Jeannine Aldea
+AI Operations & Automation Specialist
